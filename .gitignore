@@ -1,3 +1,5 @@
 **/*.dll
 BadgerAddin2010/bin/**/*.*
 BadgerAddin2010/obj/**/*.*
+**/*~
+**/*.swp
