@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui" onLoad="Ribbon_Load">
+  <ribbon>
+    <tabs>
+      <tab idMso="TabReadMessage">
+        <group id="Badger"
+               label="Beaver Tasks">
+          <menu id="btnBeaver"
+                imageMso="ProposeNewTime"
+                screentip="Assign a beaver to handle this item."
+                supertip="Use your set of pre-defined beaver scripts to handle this item."
+                label="Assign a Beaver"
+                size="large">
+            <button id="itmGoogle"
+                    label="Google it!"/>
+            <button id="btnGoogle"
+                    label="Just Google it."
+                    />
+          </menu>
+        </group>
+      </tab>
+    </tabs>
+  </ribbon>
+</customUI>
+

@@ -1,0 +1,11 @@
+C:\Users\c26128\Documents\code\BadgerAddin2010\GoogleBeaver\bin\Debug\GoogleBeaver.dll
+C:\Users\c26128\Documents\code\BadgerAddin2010\GoogleBeaver\bin\Debug\GoogleBeaver.pdb
+C:\Users\c26128\Documents\code\BadgerAddin2010\GoogleBeaver\obj\Debug\GoogleBeaver.csprojResolveAssemblyReference.cache
+C:\Users\c26128\Documents\code\BadgerAddin2010\GoogleBeaver\obj\Debug\GoogleBeaver.dll
+C:\Users\c26128\Documents\code\BadgerAddin2010\GoogleBeaver\obj\Debug\GoogleBeaver.pdb
+C:\Users\c26128\Documents\code\BadgerAddin2010\GoogleBeaver\bin\Debug\BadgerAddin2010.dll
+C:\Users\c26128\Documents\code\BadgerAddin2010\GoogleBeaver\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Users\c26128\Documents\code\BadgerAddin2010\GoogleBeaver\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\c26128\Documents\code\BadgerAddin2010\GoogleBeaver\bin\Debug\BadgerAddin2010.pdb
+C:\Users\c26128\Documents\code\BadgerAddin2010\GoogleBeaver\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+C:\Users\c26128\Documents\code\BadgerAddin2010\GoogleBeaver\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml

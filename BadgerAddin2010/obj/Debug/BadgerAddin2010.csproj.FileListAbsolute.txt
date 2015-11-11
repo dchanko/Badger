@@ -1,0 +1,14 @@
+C:\Users\c26128\Documents\code\BadgerAddin2010\BadgerAddin2010\bin\Debug\BadgerAddin2010.dll
+C:\Users\c26128\Documents\code\BadgerAddin2010\BadgerAddin2010\bin\Debug\BadgerAddin2010.pdb
+C:\Users\c26128\Documents\code\BadgerAddin2010\BadgerAddin2010\bin\Debug\BadgerAddin2010.dll.manifest
+C:\Users\c26128\Documents\code\BadgerAddin2010\BadgerAddin2010\bin\Debug\BadgerAddin2010.vsto
+C:\Users\c26128\Documents\code\BadgerAddin2010\BadgerAddin2010\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\c26128\Documents\code\BadgerAddin2010\BadgerAddin2010\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Users\c26128\Documents\code\BadgerAddin2010\BadgerAddin2010\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\c26128\Documents\code\BadgerAddin2010\BadgerAddin2010\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+C:\Users\c26128\Documents\code\BadgerAddin2010\BadgerAddin2010\obj\Debug\BadgerAddin2010.csprojResolveAssemblyReference.cache
+C:\Users\c26128\Documents\code\BadgerAddin2010\BadgerAddin2010\obj\Debug\BadgerAddin2010.Properties.Resources.resources
+C:\Users\c26128\Documents\code\BadgerAddin2010\BadgerAddin2010\obj\Debug\BadgerAddin2010.csproj.GenerateResource.Cache
+C:\Users\c26128\Documents\code\BadgerAddin2010\BadgerAddin2010\obj\Debug\BadgerAddin2010.dll
+C:\Users\c26128\Documents\code\BadgerAddin2010\BadgerAddin2010\obj\Debug\BadgerAddin2010.pdb
+C:\Users\c26128\Documents\code\BadgerAddin2010\BadgerAddin2010\obj\Debug\BadgerAddin2010.UI.BadgerPrompt.resources
